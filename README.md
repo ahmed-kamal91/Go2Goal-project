@@ -8,3 +8,8 @@ it's a program like a game playing itself, turtle eaing the goal
 ![rosgraph](https://user-images.githubusercontent.com/91970695/218224583-d3f40ce8-74f7-4353-bc02-11a13ab9de83.png)
 
  Regardless of what the turtle ate its ancestors.it is type of communications (P2P, client-server) between control node & turtle node (which is responsible for turtle properties).control node send requests to 3 servers & do the control itself(linear & angular velocity control) using p2p communication with turtle node.
+
+
+## Video
+
+https://user-images.githubusercontent.com/91970695/218224724-3b2cd8f2-0a37-4a4e-8290-e35d47c7aabc.mp4
